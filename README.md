@@ -68,7 +68,7 @@ TranSSound is a Python application that encodes binary data into high-frequency 
 - **High Frequencies**: The selected high frequencies may not work on all devices due to hardware limitations.
 
 ## 🌟 Future Improvements
-
+- Get real-time decoding working
 - Enhanced noise filtering for real-time decoding in noisy environments.
 - Improved marker detection and synchronization for more accurate data retrieval.
 
